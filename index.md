@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Bloggity, blog, blog
 
-I'm glad you are here. I plan to talk about ...
+Just casually checking out GIT, trying not to be a GIT, while learning GIT.
+
+GIT, GIT, GIT.
